@@ -1,6 +1,6 @@
 <template>
 
-<section class="py-20 bg-white">
+<section class="py-10 bg-white">
 
 <div class="max-w-7xl mx-auto grid md:grid-cols-2 gap-10 items-center px-6">
 

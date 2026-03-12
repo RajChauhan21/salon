@@ -1,6 +1,6 @@
 <template>
 
-    <section id="services" class="py-20">
+    <section id="services" class="py-10">
 
         <div class="max-w-7xl mx-auto px-6">
 

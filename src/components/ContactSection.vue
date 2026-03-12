@@ -1,6 +1,6 @@
 <template>
 
-    <section id="contact" class="py-20 bg-gray-50">
+    <section id="contact" class="py-10 bg-gray-50">
 
         <div class="max-w-7xl mx-auto px-6">
 

@@ -1,6 +1,6 @@
 <template>
 
-    <section id="booking" class="py-20 bg-gray-50">
+    <section id="booking" class="py-10 bg-gray-50">
 
         <div class="max-w-xl mx-auto text-center px-6">
 
